@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @lucasboinet
-- 👀 My hobbies are video games, movies and tech
+- 👀 Full-stack developer since 2021
 - 🌱 Open for any freelance opportunity
 - 📫 How to reach me : lucasboinet.pro@gmail.com
