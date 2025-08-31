@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @lucasboinet
 - 👀 Full-stack developer since 2021
-- 🌱 Open for any freelance opportunity
+- 🌱 Open for any work opportunity
 - 📫 How to reach me : lucasboinet.pro@gmail.com
